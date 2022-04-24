@@ -1,0 +1,12 @@
+name: AtomDP
+author: bugra
+version: 2.0
+main: dp.DP
+depend:
+  - Duels
+  - Vault
+
+
+commands:
+  dp:
+    description: 'atom craft kalitenin merkezi'
